@@ -9,7 +9,7 @@ public class BigRectLister
 
     public static ArrayList<Rectangle> collectAll()
     {
-        ArrayList<Rectangle> rectArrayBigPerimeter = new ArrayList<>();
+        ArrayList<Rectangle> rectArrayBigPerimeter = new ArrayList<Rectangle>();
 
         for(Rectangle BigPerimeterRectangle : rectListArray)
         {
